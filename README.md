@@ -1,1 +1,1 @@
-Le projet tourne sur python 3.10
+Le projet tourne sur python 3.12.
